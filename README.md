@@ -1,0 +1,4 @@
+vastored
+========
+
+VaLibre storage daemon
